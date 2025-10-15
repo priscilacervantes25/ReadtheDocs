@@ -3,25 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Predicción del precio de cierre acción: 'MSTF'
-===============================================
-
-Esteban Javier Berumen Nieto, Priscila Cervantes Ramírez,, Mariana Salome García González
-------------------------------------------------------------------------------------------
-
-INSTITUTO TECNOLÓGICO DE ESTUDIOS SUPERIORES DE OCCIDENTE (ITESO)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Repo: https://github.com/priscilacervantes25/ReadtheDocs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Documentación Proyecto de Predicción de Acciones
+================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contenido:
 
-   introduccion
-   metodo
-   resultados
+   portada
+   motivacion
+   metodologia
+
+Bienvenido a la documentación del proyecto. Usa la barra lateral para navegar entre secciones.
+   
 
 
 Add your content using ``reStructuredText`` syntax. See the
