@@ -3,19 +3,30 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-ReadTheDocs documentation
-=========================
+Predicción del precio de cierre acción: 'MSTF'
+===============================================
 
-Hola! This is the documentation for ReadTheDocs.
+Esteban Javier Berumen Nieto, Priscila Cervantes Ramírez,, Mariana Salome García González
+------------------------------------------------------------------------------------------
 
-HICE UN CAMBIO
+INSTITUTO TECNOLÓGICO DE ESTUDIOS SUPERIORES DE OCCIDENTE (ITESO)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Repo: https://github.com/priscilacervantes25/ReadtheDocs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contenido:
+
+   introduccion
+   metodo
+   resultados
+
 
 Add your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
 documentation for details.
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
