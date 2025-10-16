@@ -1,6 +1,6 @@
 .. raw:: html
 
-    <h1 style="color:blue;">Motivación del Activo</h1>
+    <h1 style="color:#1565C0;">Motivación del Activo</h1>
 
 **¿Por qué se elige la acción?**
 

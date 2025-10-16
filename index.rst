@@ -2,9 +2,9 @@
    sphinx-quickstart on Wed Oct 15 16:26:58 2025.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
+.. raw:: html
 
-Documentación Proyecto de Predicción de Acciones
-================================================
+    <h1 style="color:#1565C0;">Documentación Proyecto de Predicción de Acciones</h1>
 
 .. toctree::
    :maxdepth: 2

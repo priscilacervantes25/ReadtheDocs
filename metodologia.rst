@@ -1,14 +1,19 @@
 .. raw:: html
 
-    <h1 style="color:blue;">Metodología</h1>
+    <h1 style="color:#1565C0;">Metodología</h1>
 
-Sección 1: Preparación de datos
--------------------------------
+
+.. raw:: html
+
+    <h1 style="color:#1565C0;">Sección 1: Preparación de datos</h1>
 
 Explicación de cómo se obtienen, limpian y transforman los datos.
 
-Sección 2: Modelado
--------------------
+.. raw:: html
+
+    <h1 style="color:#1565C0;">Sección 2: Modelado</h1>    
+
+
 
 - Descripción de los modelos utilizados
 - Métricas de evaluación
