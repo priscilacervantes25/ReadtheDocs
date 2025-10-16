@@ -45,5 +45,5 @@ Entre sus productos más conocidos se encuentran:
 
 .. raw:: html
 
-   <span style="color:red;">HOLA</span>
-========================================
+    <h1 style="color:blue;">Motivación del Activo</h1>
+
