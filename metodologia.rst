@@ -1,5 +1,6 @@
-Metodología
-===========
+.. raw:: html
+
+    <h1 style="color:blue;">Metodología</h1>
 
 Sección 1: Preparación de datos
 -------------------------------

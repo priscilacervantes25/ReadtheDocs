@@ -1,5 +1,6 @@
-Motivación del Activo
-====================
+.. raw:: html
+
+    <h1 style="color:blue;">Motivación del Activo</h1>
 
 **¿Por qué se elige la acción?**
 
@@ -43,7 +44,5 @@ Entre sus productos más conocidos se encuentran:
 
 * 2021-2025: Inversiones estratégicas en inteligencia artificial, adquisiciones como Nuance Communications, y consolidación de productos empresariales y de consumo.
 
-.. raw:: html
 
-    <h1 style="color:blue;">Motivación del Activo</h1>
 

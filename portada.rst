@@ -1,5 +1,6 @@
-Portada
-===============================================
+.. raw:: html
+
+    <h1 style="color:blue;">Portada</h1>
 
 **Título:** Predicción del precio de cierre acción: 'MSTF'
 
