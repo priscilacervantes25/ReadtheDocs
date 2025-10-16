@@ -10,4 +10,4 @@ Portada
 **Universidad:** INSTITUTO TECNOLÓGICO DE ESTUDIOS SUPERIORES DE OCCIDENTE (ITESO)
 
 
-**Repositorio:** https://github.com/priscilacervantes25/ReadtheDocs
+**Repositorio:** https://github.com/priscilacervantes25/E2_Prediccion_precio_cierre_accion
