@@ -10,9 +10,9 @@
    :maxdepth: 2
    :caption: Contenido:
 
-   portada
-   motivacion
-   metodologia
+   portada.rst
+   motivacion.rst
+   metodologia.rst
    
 
 
