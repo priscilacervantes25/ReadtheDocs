@@ -34,7 +34,8 @@ EXPLICACIÓN
 
     <h1 style="color:royalblue;">Predicciones</h3> 
 
-.. image:: https://drive.google.com/uc?export=view&id=11aICdUnwM-wWgALaLHDkKgd-704bF3Gb
-   :alt: Logo de la universidad
-   :width: 300px
+.. image:: https://drive.google.com/uc?export=view&id=1uhh0j_36kjI7QWEHs06bsL2jMCvKlHez
+   :alt: FFNN Predictions
    :align: center
+   :width: 400px
+
