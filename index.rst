@@ -21,11 +21,11 @@
 
 **METODOLOGÍA**
 
-   1. SARIMAX
+   1. `SARIMAX`
 
-   2. FFNN
+   2. `FFNN`
 
-   3. Predicciones
+   3. `PREDICCIONES`
 
 
 
