@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 .. raw:: html
 
-    <h1 style="color:#1565C0;">Documentación Proyecto de Predicción de Acciones</h1>
+    <h1 style="color:#1565C0;"> Proyecto de Predicción de  'Microsoft'</h1>
 
 .. toctree::
    :maxdepth: 2
@@ -13,14 +13,8 @@
    portada
    motivacion
    metodologia
-
-Bienvenido a la documentación del proyecto. Usa la barra lateral para navegar entre secciones.
    
 
-
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
 
 
 
