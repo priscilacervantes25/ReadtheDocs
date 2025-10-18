@@ -34,8 +34,9 @@ EXPLICACIÓN
 
     <h1 style="color:royalblue;">Predicciones</h3> 
 
-.. image:: https://drive.google.com/uc?export=view&id=1uhh0j_36kjI7QWEHs06bsL2jMCvKlHez
-   :alt: FFNN Predictions
+.. image:: FFNN.jpg
+   :alt: descripción de la imagen
    :align: center
    :width: 400px
+
 
