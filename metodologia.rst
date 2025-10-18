@@ -28,3 +28,13 @@ EXPLICACIÓN
     Este paso es primordial ya que se evalúa el desempeño del modelo y para entrenar conforme la serie temporal avanza(se actualiza) para lograr hacer pronósticos lo mejor posible. 
 
     Los pasos que se realizaron fueron la división del conjunto de datos en entrenamiento, validación y prueba. El modelo entrenado bajo este esquema generó los pronósticos para los siguientes 5 días hábiles (20–24 de octubre de 2025).
+
+
+.. raw:: html
+
+    <h1 style="color:royalblue;">Predicciones</h3> 
+
+.. image:: https://drive.google.com/uc?export=view&id=11aICdUnwM-wWgALaLHDkKgd-704bF3Gb
+   :alt: Logo de la universidad
+   :width: 300px
+   :align: center
