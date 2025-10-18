@@ -15,19 +15,18 @@
    motivacion
    metodologia
 
-PORTADA
+**PORTADA**
 
-MOTIVACIÓN
+**MOTIVACIÓN**
 
-METODOLOGÍA
+**METODOLOGÍA**
 
-   SARIMAX
+   1. SARIMAX
 
-   FFNN
+   2. FFNN
 
-   Predicciones
+   3. Predicciones
 
-   Evaluación de Modelos
 
 
 
