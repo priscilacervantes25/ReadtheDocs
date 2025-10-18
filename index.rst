@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. container:: title-blue
+.. raw:: html
 
-   Proyecto de Predicción de 'Microsoft'
+    <h1 style="color:#1565C0;">Predicción del precio de cierre acción 'Microsoft</h1>
 
    .. toctree::
    :maxdepth: 2
@@ -15,9 +15,19 @@
    motivacion
    metodologia
 
+PORTADA
 
-   
+MOTIVACIÓN
 
+METODOLOGÍA
+
+   SARIMAX
+
+   FFNN
+
+   Predicciones
+
+   Evaluación de Modelos
 
 
 
