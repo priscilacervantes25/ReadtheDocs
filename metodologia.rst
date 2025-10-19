@@ -49,16 +49,10 @@
 
     <h1 style="color:royalblue;">Predicciones</h3> 
 
-Predicciones FFNN:
+Predicciones:
 
-.. image:: FFNN.jpg
+.. image:: predicciones.jpeg
    :alt: FFNN Predicciones
    :align: center
    :width: 400px
 
-Predicciones SARIMAX:
-
-.. image:: sarimax.jpg
-   :alt: SARIMAX Predicciones
-   :align: center
-   :width: 400px
