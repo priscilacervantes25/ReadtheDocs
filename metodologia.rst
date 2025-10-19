@@ -17,12 +17,12 @@
 
 - Variables exógenas:
 
-    Incluyendo la serie de cierre, se usaron variables exógenas como los valores de apertura, máximo, mínimo y cambio porcentual diario. Nos ayudan a complementar todo el tema del precio y a mejorar la capacidad predictiva del modelo.
+    Incluyendo la serie de cierre, se usaron variables exógenas como los valores de apertura, máximo, mínimo y cambio porcentual diario. Nos ayudan a complementar todo el tema del precio y a mejorar la capacidad predictiva del modelo. Incluso algo importante, algo concluyente fue que se eligieron esas exógenas gracias a la gráfica de **ccf**. 
 
 - Criterios de selección (AIC/BIC):
 
     Al analizar y hacer comparación entre distintas modificaciones del modelo utilizando los criterios AIC y BIC, se seleccionó el modelo con los valores más bajos de estos criterios, ya que indican un mejor ajuste del modelo a los datos con menor complejidad.
-    
+
 
 .. raw:: html
 
